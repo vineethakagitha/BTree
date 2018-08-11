@@ -1,0 +1,12 @@
+1,Vineetha,VCE
+2,Jyothsna,GVP
+3,Flora,BVRITH
+4,Monika,GITAM
+5,Vaishnavi,CVR
+6,Aravind,VCE
+7,Venkatesh,ANITS
+8,Bharath,SMEC
+9,Ashu,CVR
+10,Abhilash,GVP
+11,Manasa,VCE
+12,Meena,VCE
